@@ -1,4 +1,7 @@
 todo
+
+1. fix background image stretching
+
 add home button to every page
 delete targets?
 resume, linkedin, github to contact page
