@@ -9,3 +9,5 @@ nav bar links on each page
 fix width media queries on largescreen
 styling (text, and layout) for all project pages
 make all project pages like contact page format
+
+https://ecstatic-neumann-8509af.netlify.com/
