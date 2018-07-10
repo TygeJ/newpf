@@ -26,6 +26,10 @@
   color: grey
 }
 
+.container-fluid > .box a:hover{
+  color: grey
+}
+
 .b2{
   opacity: .7
 }
@@ -44,4 +48,23 @@
 }
 .design {
   font-size: 25px
+}
+.container-js{
+  position:absolute;
+}
+.design-items{
+border: solid;
+}
+
+.graham{
+  height: 500px !important;
+  width: 500px;
+}
+
+.bakery{
+position: absolute;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
 }
