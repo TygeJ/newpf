@@ -26,7 +26,7 @@
   color: grey
 }
 
-.container-fluid > .box a:hover{
+.container-fluid > .text-center a:hover{
   color: grey
 }
 
@@ -57,14 +57,13 @@ border: solid;
 }
 
 .graham{
-  height: 500px !important;
-  width: 500px;
+  position: absolute;
+  font-size: 55px;
+  padding: 100px 100px 100px 100px !important;
 }
 
 .bakery{
-position: absolute;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-right: 100px;
-    padding-left: 100px;
+  position: absolute;
+  font-size: 55px;
+  padding: 100px 100px 100px 100px !important;
 }
