@@ -59,11 +59,20 @@ border: solid;
 .graham{
   position: absolute;
   font-size: 55px;
-  padding: 100px 100px 100px 100px !important;
+  padding: 100px 200px 100px 100px;
+  margin: 100% 100px 100px 100px;
 }
 
 .bakery{
   position: absolute;
   font-size: 55px;
-  padding: 100px 100px 100px 100px !important;
+  padding: 100px 100px 100px 100px;
+}
+
+.g-card{
+  height: 100px;
+  width: 100px;
+}
+.card{
+  display: inline;
 }
