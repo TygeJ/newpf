@@ -53,11 +53,11 @@
   position:absolute;
 }
 .design-items{
-border: solid;
+border: solid; 
 }
 
 .graham {
-  /* position:  absolute; */ 
+  /* position:  absolute; */
   font-size: 55px;
   padding: 100px 200px 100px 100px;
   margin: 100% 100px 100px 100px;
